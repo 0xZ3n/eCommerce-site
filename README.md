@@ -1,6 +1,13 @@
 # eCommerce-site
 Generates the back-end of an eCommerce site
 
+STUDENT COMMENTS:
+This program contains commented pseudo code, as I was not able to execute proper syntax to get it 
+functioning properly. 
+
+VIDEO LINK:
+https://watch.screencastify.com/v/yf49wfi685g06PerXBnf
+
 #USER STORY
 AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
